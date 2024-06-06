@@ -1,4 +1,10 @@
-# Arch Network Test: eBPF
+# Network Ebpf
+
+This project was built to learn and implement simple programs related to:
+
+- Linux kernel eBPF
+- Solana development with Anchor framework
+- Run a Solana binary within `solana_rbpf` VM
 
 ## Aya project setup
 
